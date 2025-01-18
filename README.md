@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! I'm Vicente Agüero
 
-<!--
-**vicenteaguero/vicenteaguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> My goal is to make at least 1 commit per day in 2025.
 
-Here are some ideas to get you started:
+## Current Streak
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vicenteaguero&" alt="vicenteaguero's GitHub streak"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vicenteaguero&theme=dark&show_icons=true&count_private=true" />
+
+## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,css,django,figma,git,githubactions,html,js,latex,linux,md,nginx,obsidian,opencv,postgres,py,pytorch,qt,r,react,redis,regex,ruby,sqlite,sklearn,tensorflow,ubuntu,vscode,&perline=14" />
+  </a>
+</p>
